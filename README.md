@@ -28,7 +28,7 @@ Este directorio contiene todo el código de base que se entrega para el funciona
     |-- Utils: Funciones auxiliares para el funcionamiento de los TADs y estructuras de datos
 
 
-Nombre: Felipe Nuñez Pinillos
-Correro: f.nunez@uniandes.edu.co
-Codigo: 202021673
+Nombre: Felipe Nuñez Pinillos/ Alejandro Jose Segura Torres
+Correro: f.nunez@uniandes.edu.co / a.segurat@uniandes.edu.co
+Codigo: 202021673/202026468
 
